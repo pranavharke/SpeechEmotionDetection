@@ -1,0 +1,4 @@
+#*.h5
+*.npy
+__pycache__/
+temp_audio.wav

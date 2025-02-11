@@ -1,0 +1,15 @@
+librosa
+tensorflow
+numpy
+streamlit
+pyaudio
+pandas
+seaborn
+tqdm
+pyaudio
+scikit-learn
+matplotlib
+soundfile
+scipy
+opencv-python
+h5py
